@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "obi",
+    "Name": "Fishing Timer",
+    "Punchline": "A customizable fishing cast timer.",
+    "Description": "Displays a customizable timer overlay when casting your fishing line.",
+    "InternalName": "FishingTimer",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ichi-obi/FishingTimer",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Tags": [ "fishing", "timer", "ui" ]
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": 1731580000,
+    "DownloadLinkInstall": "https://github.com/ichi-obi/FishingTimer/releases/download/v1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ichi-obi/FishingTimer/releases/download/v1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ichi-obi/FishingTimer/releases/download/v1.0.0.0/latest.zip"
+  }
+]
