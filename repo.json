@@ -13,7 +13,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Tags": [ "fishing", "timer", "ui" ]
+    "Tags": [ "fishing", "timer", "ui" ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdate": 1731580000,
