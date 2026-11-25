@@ -20,5 +20,26 @@
     "DownloadLinkInstall": "https://github.com/ichi-obi/FishingTimer/releases/download/v1.0.0.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/ichi-obi/FishingTimer/releases/download/v1.0.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ichi-obi/FishingTimer/releases/download/v1.0.0.1/latest.zip"
-  }
+  },
+  {
+    "Author": "obi",
+    "Name": "Fish Guide Revealer",
+    "Punchline": "Reveals all fish in the fishing guide.",
+    "Description": "Shows all fish in the Fish Guide window, revealing uncaught fish.",
+    "InternalName": "FishGuideRevealer",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "RepoUrl": "https://github.com/ichi-obi/FishGuideRevealer",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1795580100,
+    "DownloadLinkInstall": "https://github.com/ichi-obi/FishGuideRevealer/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ichi-obi/FishGuideRevealer/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ichi-obi/FishGuideRevealer/releases/download/1.0.0.0/latest.zip",
+    "Tags": [ "fishing", "guide" ]
 ]
